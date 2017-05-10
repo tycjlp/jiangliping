@@ -1,0 +1,211 @@
+%!Adobe-FontList 1.15
+%Locale:0x804
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:HYQingYaTiJ
+FamilyName:HYQingYaTiJ
+StyleName:Regular
+FullName:HYQingYaTiJ Regular
+MenuName:汉仪清雅体简
+StyleBits:0
+FamilyNameNative:汉仪清雅体简
+StyleNameNative:Regular
+FullNameNative:汉仪清雅体简 Regular
+WritingScript:SimplifiedChinese
+OutlineFileName:C:\Users\WLCX150818\Desktop\0508\gulp-dev\src\Font\hyqytj.ttf
+DataFormat:sfntData
+FileLength:2026768
+FileModTime:1494230880
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,HYQingYaTiJ Regular
+NameArray:25,Mac,4,汉仪清雅体简 Regular
+NameArray:0,Win,1,HYQingYaTiJ
+NameArray:25,Win,1,汉仪清雅体简
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:CID
+FontName:NotoSansHans-Black
+FamilyName:Noto Sans S Chinese
+StyleName:Black
+FullName:Noto Sans S Chinese Black Bold
+MenuName:Noto Sans S Chinese Black
+StyleBits:2
+FamilyNameNative:
+StyleNameNative:Black
+FullNameNative:
+WritingScript:SimplifiedChinese
+OutlineFileName:C:\Users\WLCX150818\Desktop\0508\gulp-dev\src\Font\NotoSansHans-Black.otf
+DataFormat:sfntData
+isCFF:yes
+FileLength:8785316
+FileModTime:1494230879
+WeightClass:900
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Noto Sans S Chinese Black Bold
+NameArray:0,Win,1,Noto Sans S Chinese Black
+NameArray:0,Win,16,Noto Sans S Chinese
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:CID
+FontName:NotoSansHans-Bold
+FamilyName:Noto Sans S Chinese
+StyleName:Bold
+FullName:Noto Sans S Chinese Bold Bold
+MenuName:Noto Sans S Chinese Bold
+StyleBits:2
+FamilyNameNative:
+StyleNameNative:Bold
+FullNameNative:
+WritingScript:SimplifiedChinese
+OutlineFileName:C:\Users\WLCX150818\Desktop\0508\gulp-dev\src\Font\NotoSansHans-Bold.otf
+DataFormat:sfntData
+isCFF:yes
+FileLength:8607960
+FileModTime:1494230879
+WeightClass:700
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Noto Sans S Chinese Bold Bold
+NameArray:0,Win,1,Noto Sans S Chinese Bold
+NameArray:0,Win,16,Noto Sans S Chinese
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:CID
+FontName:NotoSansHans-DemiLight
+FamilyName:Noto Sans S Chinese
+StyleName:DemiLight
+FullName:Noto Sans S Chinese DemiLight
+MenuName:Noto Sans S Chinese DemiLight
+StyleBits:0
+FamilyNameNative:
+StyleNameNative:DemiLight
+FullNameNative:
+WritingScript:SimplifiedChinese
+OutlineFileName:C:\Users\WLCX150818\Desktop\0508\gulp-dev\src\Font\NotoSansHans-DemiLight.otf
+DataFormat:sfntData
+isCFF:yes
+FileLength:8344000
+FileModTime:1494230879
+WeightClass:350
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Noto Sans S Chinese DemiLight
+NameArray:0,Win,1,Noto Sans S Chinese DemiLight
+NameArray:0,Win,16,Noto Sans S Chinese
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:CID
+FontName:NotoSansHans-Light
+FamilyName:Noto Sans S Chinese
+StyleName:Light
+FullName:Noto Sans S Chinese Light
+MenuName:Noto Sans S Chinese Light
+StyleBits:0
+FamilyNameNative:
+StyleNameNative:Light
+FullNameNative:
+WritingScript:SimplifiedChinese
+OutlineFileName:C:\Users\WLCX150818\Desktop\0508\gulp-dev\src\Font\NotoSansHans-Light.otf
+DataFormat:sfntData
+isCFF:yes
+FileLength:8297272
+FileModTime:1494230879
+WeightClass:300
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Noto Sans S Chinese Light
+NameArray:0,Win,1,Noto Sans S Chinese Light
+NameArray:0,Win,16,Noto Sans S Chinese
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:CID
+FontName:NotoSansHans-Medium
+FamilyName:Noto Sans S Chinese
+StyleName:Medium
+FullName:Noto Sans S Chinese Medium
+MenuName:Noto Sans S Chinese Medium
+StyleBits:0
+FamilyNameNative:
+StyleNameNative:Medium
+FullNameNative:
+WritingScript:SimplifiedChinese
+OutlineFileName:C:\Users\WLCX150818\Desktop\0508\gulp-dev\src\Font\NotoSansHans-Medium.otf
+DataFormat:sfntData
+isCFF:yes
+FileLength:8389940
+FileModTime:1494230880
+WeightClass:500
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Noto Sans S Chinese Medium
+NameArray:0,Win,1,Noto Sans S Chinese Medium
+NameArray:0,Win,16,Noto Sans S Chinese
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:CID
+FontName:NotoSansHans-Regular
+FamilyName:Noto Sans S Chinese
+StyleName:Regular
+FullName:Noto Sans S Chinese Regular
+MenuName:Noto Sans S Chinese Regular
+StyleBits:0
+FamilyNameNative:
+StyleNameNative:Regular
+FullNameNative:
+WritingScript:SimplifiedChinese
+OutlineFileName:C:\Users\WLCX150818\Desktop\0508\gulp-dev\src\Font\NotoSansHans-Regular.otf
+DataFormat:sfntData
+isCFF:yes
+FileLength:8364644
+FileModTime:1494230880
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Noto Sans S Chinese Regular
+NameArray:0,Win,1,Noto Sans S Chinese Regular
+NameArray:0,Win,16,Noto Sans S Chinese
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:CID
+FontName:NotoSansHans-Thin
+FamilyName:Noto Sans S Chinese
+StyleName:Thin
+FullName:Noto Sans S Chinese Thin
+MenuName:Noto Sans S Chinese Thin
+StyleBits:0
+FamilyNameNative:
+StyleNameNative:Thin
+FullNameNative:
+WritingScript:SimplifiedChinese
+OutlineFileName:C:\Users\WLCX150818\Desktop\0508\gulp-dev\src\Font\NotoSansHans-Thin-Windows.otf
+DataFormat:sfntData
+isCFF:yes
+FileLength:7704092
+FileModTime:1494230880
+WeightClass:250
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Noto Sans S Chinese Thin
+NameArray:0,Win,1,Noto Sans S Chinese Thin
+NameArray:0,Win,16,Noto Sans S Chinese
+%EndFont
+
